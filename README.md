@@ -1,9 +1,14 @@
 TP Hibernate JPA - Gestion des Salles et Machines
-📋 Description
+
+ 
+ ## Description
 
 Ce Tp est une application Java utilisant Hibernate/JPA pour gérer des entités Salle et Machine avec une base de données MySQL.
-🧪 Tests Unitaires
-1. Test de la classe SalleServiceTest
+
+
+## Tests Unitaires
+
+=====1. Test de la classe SalleServiceTest=====
 
    <img width="764" height="673" alt="6" src="https://github.com/user-attachments/assets/9cd53985-2ab0-4d24-95e6-9d780eca06de" />
 
@@ -22,7 +27,7 @@ Tests exécutés :
     ✅ testFindAll() - Liste de toutes les salles
 
 
-2. Test de la classe MachineServiceTest
+======2. Test de la classe MachineServiceTest=====
 
 
 <img width="761" height="669" alt="macineService" src="https://github.com/user-attachments/assets/1493d9dc-503e-428f-827f-fcdd122ab523" />
@@ -44,7 +49,7 @@ Tests exécutés :
 
 
 
-3. Test de la classe principale Test
+=====3. Test de la classe principale Test======
    
 <img width="634" height="556" alt="2" src="https://github.com/user-attachments/assets/394df3b2-21dc-4f97-b695-945386e0723b" />
 
